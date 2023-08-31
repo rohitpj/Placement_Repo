@@ -1,0 +1,11 @@
+presentation
+
+250 iterations my implementation
+
+MAPE: 0.133713
+RMSE: 6.14954
+
+250 iterations transdim
+
+Imputation MAPE: 0.102338
+Imputation RMSE: 4.31552

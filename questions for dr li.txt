@@ -1,0 +1,7 @@
+questions
+how much should be 
+dense vs sparse matrix in BPMF function
+why density test used line 9
+why tau used for matrix
+
+

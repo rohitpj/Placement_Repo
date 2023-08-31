@@ -1,0 +1,7 @@
+Placement links
+
+https://paperswithcode.com/paper/methodology-for-forecasting-and-optimization
+https://www.cs.cmu.edu/~rsalakhu/papers/bpmf.pdf
+https://arxiv.org/pdf/1910.06366v2.pdf
+https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d
+https://en.wikipedia.org/wiki/Vector_autoregression
